@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[because your worth it.]]></title>
+        <description><![CDATA[because your worth it.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 13:08:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Win a £100 Pizza Express Gift Card]]></title>
+            <description><![CDATA[<article><h1>Win a £100 Pizza Express Gift Card</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e6a50a-a140-4752-838e-addeba4d4667.jpg"></article>]]></description>
+            <link>undefinedwin-a-pound100-pizza-express-gift-card/index.html</link>
+            <guid isPermaLink="false">acd9b60c-978a-4b08-bce3-84cc1b8b0e8a</guid>
+            <pubDate>Wed, 20 Jul 2016 13:08:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
