@@ -1,0 +1,28 @@
+name: freestuff
+favicon: null
+layout_spectrum: 0.027986294822767377
+typography_spectrum: 0.7489943993277848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3500422234646976
+  lightness: 0.366340349894017
+  saturation: 0.08043830911628902
+  rhythmicContrast: 0.23705271421931684
+purpose: []
